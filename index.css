@@ -1,0 +1,28 @@
+*{
+    margin: 0;
+    padding: 0;
+    background-color: black;
+}
+.container{
+    font-family: Arial, Helvetica, sans-serif;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+    font-size: 70px;
+}
+span{
+    color: white;
+}
+ #hours{
+    color: aqua;
+}
+#minutes{
+    color: crimson;
+}
+#seconds{
+    color: indigo;
+}
+#session{
+    color: hotpink;
+}
